@@ -1,2 +1,5 @@
 # react_blog
-This is just a simple React-Redux blog with communication with Rails api. Developed for personal purpose. 
+React-Redux blog app. 
+Only for personal purposes with some basic functionalities and implementations. 
+Communication with web api, basic CRUD actions, managing state throgh app using Redux library etc ..
+
